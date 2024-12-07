@@ -21,4 +21,7 @@
 include:
   - board: seeeduino_xiao_ble
     snippet: zmk-usb-logging
+    shield: glove80_dongle
+  - board: seeeduino_xiao_ble
+    snippet: zmk-usb-logging
     shield: settings_reset
